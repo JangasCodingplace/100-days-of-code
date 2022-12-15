@@ -1,5 +1,13 @@
 # 100DaysOfCode Diary
 
+## Day 3 - PyTesseract OCR
+I provided information and examples of code that can be used to:
+
+- Use Pytesseract to extract text from images.
+- Preprocess images to improve the accuracy of OCR.
+- Rotate images around a given angle using OpenCV or Pillow.
+
+
 ## Day 2 - K-Fold Cross-validation
 - I discussed the concept of K-Fold Cross validation
 - I've provided some kind of demosnippets with
