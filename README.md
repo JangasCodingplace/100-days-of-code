@@ -1,5 +1,10 @@
 # 100DaysOfCode Diary
 
+## Day 4 - Edge and Corner Detection
+- Convert the image to grayscale using the cv2.cvtColor function and the cv2.COLOR_BGR2GRAY flag, if necessary.
+- Use the cv2.Canny function to detect edges in the image, if desired.
+- Use the cv2.cornerHarris function to detect corners in the image, or use one of the other corner detection algorithms available in OpenCV
+
 ## Day 3 - PyTesseract OCR
 I provided information and examples of code that can be used to:
 
