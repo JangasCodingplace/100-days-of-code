@@ -1,5 +1,10 @@
 # 100DaysOfCode Diary
 
+## Day 5 - OpenCV Contour Detection & Morphological Closing
+- using the GrabCut algorithm is a computer vision algorithm that can be used to segment an image into foreground and background regions
+- basic image processing operations, such as color conversion, blurring, edge detection, and dilation, can be performed using functions from the OpenCV library
+- find and draw contours on an image with OpenCV
+
 ## Day 4 - Edge and Corner Detection
 - Convert the image to grayscale using the cv2.cvtColor function and the cv2.COLOR_BGR2GRAY flag, if necessary.
 - Use the cv2.Canny function to detect edges in the image, if desired.
