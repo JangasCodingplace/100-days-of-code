@@ -1,5 +1,12 @@
 # 100DaysOfCode Diary
 
+## Day 6 - Build a Raw Typescript and React Frontend for image labeling
+- init a basic react typescript project without additional UI tools (e.g. MUI)
+- make usage of a canvas
+- draw rectangles in that canvas
+- create a form
+- style the page with some css
+
 ## Day 5 - OpenCV Contour Detection & Morphological Closing
 - using the GrabCut algorithm is a computer vision algorithm that can be used to segment an image into foreground and background regions
 - basic image processing operations, such as color conversion, blurring, edge detection, and dilation, can be performed using functions from the OpenCV library
