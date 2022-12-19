@@ -1,5 +1,11 @@
 # 100DaysOfCode Diary
 
+## Day 7 - Building a simple Work time logger in Python
+- init basic python script
+- creating a simple script which is able to log work time
+- write work time into log files
+- split logs by date and split logs by project
+
 ## Day 6 - Build a Raw Typescript and React Frontend for image labeling
 - init a basic react typescript project without additional UI tools (e.g. MUI)
 - make usage of a canvas
