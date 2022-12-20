@@ -1,5 +1,9 @@
 # 100DaysOfCode Diary
 
+## Day 8 - Comparing Pytesseract and MMOCR
+- described downsides of PyTesseract and some alternatives
+- compared PyTesseract and MMOCR with images from day 3 and 5
+
 ## Day 7 - Building a simple Work time logger in Python
 - init basic python script
 - creating a simple script which is able to log work time
