@@ -1,5 +1,8 @@
 # 100DaysOfCode Diary
 
+## Day 9 - MMOCR Kie Prediction
+- Quick and dirty: high level walk through MMOCR Kie Prediction. Nice one!
+
 ## Day 8 - Comparing Pytesseract and MMOCR
 - described downsides of PyTesseract and some alternatives
 - compared PyTesseract and MMOCR with images from day 3 and 5
