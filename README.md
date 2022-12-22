@@ -1,5 +1,8 @@
 # 100DaysOfCode Diary
 
+## Day 10 - Simple Image Resize
+- Another lazy day before christmas: just another quickwin - a resize image function in Python
+
 ## Day 9 - MMOCR Kie Prediction
 - Quick and dirty: high level walk through MMOCR Kie Prediction. Nice one!
 
