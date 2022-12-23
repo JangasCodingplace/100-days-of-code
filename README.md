@@ -1,5 +1,8 @@
 # 100DaysOfCode Diary
 
+## Day 11 - Simple Christmas Tree
+- print a Christmas Tree in Python
+
 ## Day 10 - Simple Image Resize
 - Another lazy day before christmas: just another quickwin - a resize image function in Python
 
